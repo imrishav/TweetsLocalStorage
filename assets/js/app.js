@@ -1,8 +1,6 @@
  // Variables
 
  const tweetList =  document.getElementById("tweet-list");
-
-
  //Event Listners
 
  eventListners();
